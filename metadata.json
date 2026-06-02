@@ -1,0 +1,6 @@
+{
+  "name": "UKM Rugby Unugiri",
+  "description": "Website resmi Unit Kegiatan Mahasiswa (UKM) Rugby Universitas Nahdlatul Ulama Sunan Giri Bojonegoro. Temukan jadwal latihan, berita terbaru, statistik tim, pelacak kemampuan (skill tracker), dan pendaftaran online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
